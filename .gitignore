@@ -24,6 +24,7 @@ launchpad.ssh.tar
 .mypy_cache/
 .vscode
 package-lock.json
+env
 
 # v6 build files (they stay switching branches)
 data/preferences/app.js
